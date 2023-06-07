@@ -1,0 +1,15 @@
+@import url(header.css);
+@import url(main.css);
+@import url(footer.css);
+
+body {
+    font-family: VT323, sans-serif;
+    background-color: rgb(220, 231, 61);
+    margin: 10px 80px;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    list-style: none;
+}
